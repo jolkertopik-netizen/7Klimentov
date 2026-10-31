@@ -18,10 +18,13 @@
 ## Скриншоты
 
 ### Скриншот 1: Результат работы программы
-![Результат работы](docs/screenshot1.png)
+<img width="801" height="432" alt="Снимок экрана 2026-10-31 200150" src="https://github.com/user-attachments/assets/ad389a06-b9c0-467e-817a-a4ea1bc40502" />
+
 
 ### Скриншот 2: XML-комментарии в коде
-![XML-комментарии](docs/screenshot2.png)
+<img width="466" height="629" alt="Снимок экрана 2026-10-31 200304" src="https://github.com/user-attachments/assets/ab2d52b1-c3c8-41ab-8e6d-298d927ae912" />
+<img width="387" height="285" alt="Снимок экрана 2026-10-31 200401" src="https://github.com/user-attachments/assets/4f934d6a-1a26-4dd2-9f01-394cfb9307d6" />
+
 
 ### Скриншот 3: Среда разработки (Visual Studio)
-![Среда разработки](docs/screenshot3.png)
+<img width="961" height="1035" alt="Снимок экрана 2026-10-31 200510" src="https://github.com/user-attachments/assets/6db5d55c-6600-4fc3-8a66-0f5472d4dc7c" />
